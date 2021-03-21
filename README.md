@@ -1,6 +1,7 @@
 ### Hi there,I am Chetas Sharma 👋
 
-🌱 I’m currently learning Web Development
+🌱 I’m currently learning Web Development <br>
+😊 Checkout my portfolio 👉 https://chetas411.github.io/chetas_portfolio/
 
 <!--- - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
