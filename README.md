@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 [![Chetas's github stats](https://github-readme-stats.vercel.app/api?username=chetas411&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetas411&show_icons=true&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetas411&exclude_repo=playListify-Frontend&show_icons=true&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetas411&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
