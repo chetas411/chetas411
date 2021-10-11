@@ -1,6 +1,6 @@
 ### Hi there,I am Chetas Sharma 👋
 
-🌱 I’m currently learning Web Development <br>
+🌱 Working in the domain of web development with React.js, Next.js and Node.js <br>
 😊 Checkout my portfolio 👉 https://chetas411.github.io/chetas_portfolio/
 
 <!--- - 🔭 I’m currently working on ...
