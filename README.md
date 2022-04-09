@@ -1,7 +1,7 @@
 ### Hi there,I am Chetas Sharma 👋
 
 🌱 Working in the domain of web development with React.js, Next.js and Node.js <br>
-😊 Checkout my portfolio 👉 https://chetas411.github.io/chetas_portfolio/
+😊 Checkout my portfolio 👉 https://chetas411.vercel.app/
 
 <!--- - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
